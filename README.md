@@ -17,8 +17,11 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 
 ### 📊 Elite Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&show_icons=true&theme=transparent&hide_border=true&title_color=BF5AF2&text_color=ffffff&icon_color=BF5AF2" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&layout=compact&theme=transparent&hide_border=true&title_color=BF5AF2&text_color=ffffff" alt="Top Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=transparent&hide_border=true&sideNumbers=BF5AF2&stroke=BF5AF2&currStreakLabel=BF5AF2" alt="GitHub Streak" />
 </p>
 
 ---
