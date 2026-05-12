@@ -15,7 +15,7 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 
 ---
 
-### 📊 Elite Performance Metrics
+### 📊 Performance Metrics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
@@ -28,7 +28,7 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 ---
 
 ### 🏙️ 3D Contribution Skyline
-*This city grows as I commit code! (Infinite Looping Animation)*
+*This city grows as I commit code! (Looping Animation)*
 <p align="center">
   <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%" />
 </p>
