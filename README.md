@@ -28,9 +28,9 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 ---
 
 ### 🏙️ 3D Contribution Skyline
-*This city grows as I commit code! (Looping Animation)*
+*This city grows as I commit code!*
 <p align="center">
-  <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
