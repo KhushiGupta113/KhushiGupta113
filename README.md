@@ -1,10 +1,6 @@
 # 🌌 Welcome to my Digital Space
 
 <p align="center">
-  <img src="header.png" width="100%" alt="Header" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF5AF2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver;Building+EscrowFlow" alt="Typing SVG" />
 </p>
 
