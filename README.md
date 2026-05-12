@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF5AF2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver;Building+EscrowFlow" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhushiGupta113&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -17,11 +21,12 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 
 ### 📊 Elite Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&show_icons=true&theme=transparent&hide_border=true&title_color=BF5AF2&text_color=ffffff&icon_color=BF5AF2" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&layout=compact&theme=transparent&hide_border=true&title_color=BF5AF2&text_color=ffffff" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=transparent&hide_border=true&sideNumbers=BF5AF2&stroke=BF5AF2&currStreakLabel=BF5AF2" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -29,13 +34,13 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 ### 🏙️ 3D Contribution Skyline
 *This city grows as I commit code!*
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
