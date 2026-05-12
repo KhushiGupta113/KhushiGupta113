@@ -5,6 +5,13 @@
 </p>
 
 ---
+### 🏙️ 3D Contribution Skyline
+*This city grows as I commit code!*
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
 
 ### 🚀 About Me
 I'm a Full Stack Developer passionate about building high-performance, visually stunning web applications. Currently, I'm working on **EscrowFlow**, a secure payment platform for freelancers and clients.
@@ -23,14 +30,6 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&theme=radical&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&theme=radical&layout=compact" alt="Top Langs" />
-</p>
-
----
-
-### 🏙️ 3D Contribution Skyline
-*This city grows as I commit code!*
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
