@@ -15,7 +15,7 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 
 ---
 
-### 📊 Elite Performance Metrics
+### 📊 Performance Metrics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
