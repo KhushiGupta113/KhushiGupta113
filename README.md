@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF5AF2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver;Building+EscrowFlow" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhushiGupta113&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -21,12 +17,12 @@ I'm a Full Stack Developer passionate about building high-performance, visually 
 
 ### 📊 Elite Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiGupta113&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiGupta113&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiGupta113&theme=radical&layout=compact" alt="Top Langs" />
 </p>
 
 ---
